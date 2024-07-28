@@ -25,7 +25,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react.js" alt="react.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original-wordmark.svg" title="vue.js" alt="vue.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>
   
   
 </div>
