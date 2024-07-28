@@ -7,9 +7,13 @@
 
 
 ### :man_technologist: About Me :
-I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
-- 💻 I’m a CS Graduate, Alex uni, faculty of science (SIM).
--  📱 I have experience of 5 years in Web development.
+I am a passionate web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+
+- 🎓 Computer Science graduate from Alexandria University, Faculty of Science (SIM).
+- 🌐 5 years of experience crafting dynamic and responsive web applications.
+- 🛠️ Expertise in modern web technologies, including PHP, Laravel, JavaScript, and Vue.js.
+- 🚀 Adept at integrating complex APIs and optimizing web performance.
+- 💡 Constantly exploring new technologies and improving my skill set.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omarabdelfattah12/) , omar.abdelfattah200125@gmail.com
 ---
 
